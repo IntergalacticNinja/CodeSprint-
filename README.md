@@ -21,3 +21,17 @@ Features: PDF generation, email delivery, KPI alerts, and scheduling.
 Upload DJI, Skydio, or CSV inspection logs for full analysis and reporting.
 Output: interactive dashboard, raw data insights, incident highlights.
 🛠️ Delivery in 3–5 days. Price: $400–$1,200.
+📊 Drone/Inspection Log Analyzer
+Upload DJI, Skydio, or CSV inspection logs for full analysis and reporting.
+Includes: flight data parsing, fault detection, GPS/mapping overlays, and inspection KPIs.
+🗂 Delivered as interactive dashboard or PDF report.
+⏱ Turnaround: 2–4 days
+💵 Price: $400–$1,200 (based on data volume and format)
+
+⸻
+
+🎯 Scope & Guarantee (for all services)
+	•	🔍 Free 15-min consult before you commit
+	•	✅ Satisfaction guarantee — revisions until you’re happy
+	•	🔐 100% confidential. Your data stays your data.
+	•	⚙️ Tech stack: Python, Streamlit, Google Apps Script, Pandas, OpenCV, Matplotlib, etc.
