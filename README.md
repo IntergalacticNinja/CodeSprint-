@@ -35,3 +35,6 @@ Includes: flight data parsing, fault detection, GPS/mapping overlays, and inspec
 	•	✅ Satisfaction guarantee — revisions until you’re happy
 	•	🔐 100% confidential. Your data stays your data.
 	•	⚙️ Tech stack: Python, Streamlit, Google Apps Script, Pandas, OpenCV, Matplotlib, etc.
+Ready to get started or have a quick question?  
+Message me on GitHub or email: **[cristian_nunezz@icloud.com]**  
+Let's build something clean, fast, and badass.  
